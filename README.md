@@ -1,5 +1,5 @@
 # Zombie
-This is the MATLAB zombie apocalypse simulation for our group project (group 4, the University of Manchester, 2016). So without further ado, let's get straight to the simulation!
+This is the MATLAB zombie apocalypse simulation for our group project (group 4, the University of Manchester, presented on October 24th 2016). So without further ado, let's get straight to the simulation!
 
 ### To run the simulation, do the following steps:
 1. save all the m files from this repository
