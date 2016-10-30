@@ -1,8 +1,8 @@
 % humans and zombies walk, Brownian motion
-zx = zx + sqrt(zSpeed*dt)*randn(1,Z);
-zy = zy + sqrt(zSpeed*dt)*randn(1,Z);
-hx = hx + sqrt(hSpeed*dt)*randn(1,H);
-hy = hy + sqrt(hSpeed*dt)*randn(1,H);
+zx = zx + zSpeed*sqrt(dt)*randn(1,Z);
+zy = zy + zSpeed*sqrt(dt)*randn(1,Z);
+hx = hx + hSpeed*sqrt(dt)*randn(1,H);
+hy = hy + hSpeed*sqrt(dt)*randn(1,H);
 
 % humans stay in the arena
 for n = 1:H
