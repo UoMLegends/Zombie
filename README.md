@@ -27,4 +27,4 @@ Parameters | Descriptions
 `lim` | the length and the width of the arena (square arena)
 `ph`| the probability of human winning the fight
 
-By the way, we also assumed that human's probability of winning the fight to increase over time.
+By the way, we also assumed that the human's probability of winning the fight will increase over time.
