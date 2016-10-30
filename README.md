@@ -2,7 +2,7 @@
 This is the MATLAB zombie apocalypse simulation for our group project (group 4, the University of Manchester, 2016). So without further ado, let's get straight to the simulation!
 
 ### To run the simulation, do the following steps:
-1. save all the m files from from this repository
+1. save all the m files from this repository
 2. execute `zombie.m` using MATLAB
 3. enjoy watching the zombie apocalypse simulation
 4. execute `population.m` to plot the graphs of zombie population and human population versus time 
