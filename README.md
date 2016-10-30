@@ -10,7 +10,7 @@ This is the MATLAB zombie apocalypse simulation for our group project (group 4, 
 
 ### Basic behaviour of zombies and humans:
 * If human and zombie are **far away** from each other, they simply **move randomly** (Brownian motion).
-* If human and zombie are **relatively close** to each other, then the zombie would **chase** after the human, and the human will **run away**.
+* If human and zombie are **relatively close** to each other, then the zombie would **chase** after the human, and the human would **run away**.
 * If a zombie is close to **multiple humans**, then the zombie would chase after the **closest** human.
 * If human and zombie are **very close** to each other, then they will **fight**. Sometimes the human wins the fight, which results in killing the zombie. And sometimes the zombie wins the fight, which results in turning the human into a zombie.
 
